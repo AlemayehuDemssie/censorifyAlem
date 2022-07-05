@@ -1,0 +1,1 @@
+{"author":"Alemayehu Mekonen","name":"censorifyAlem","version":"0.0.1","description":"Cesnosor words out of text","main":"cesnor.text","repository":{"type":"git","url":"https://github.com/AlemayehuDemssie/censorifyAlem"},"keywords":["censor","words"],"dependencies":{"cencorify":"^0.0.1","censorify":"file:censorify-0.0.1.tgz"},"engines":{"node":"*"}}
